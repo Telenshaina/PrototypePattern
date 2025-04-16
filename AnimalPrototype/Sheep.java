@@ -1,3 +1,4 @@
+package AnimalPrototype;
 // Concrete Prototype: Sheep
 public class Sheep implements Animal {
     private int legs;

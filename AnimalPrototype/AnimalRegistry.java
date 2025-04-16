@@ -1,3 +1,4 @@
+package AnimalPrototype;
 // Prototype Registry
 public class AnimalRegistry {
     private Sheep sheepPrototype;
