@@ -1,5 +1,4 @@
-
-#Prototype Design Pattern
+#Prototype_Design_Pattern
 
 In software development, we often need to create multiple objects that share similar characteristics or initial states. Instead of repeatedly going through a potentially complex object creation process from scratch, the Prototype pattern offers an elegant solution: cloning.
 Think of it like having a master template or a fully prepared example. When you need a new instance, you simply make a copy of this template, and then you can customize it if needed. This can save us significant time and resources, especially when creating complex objects.
