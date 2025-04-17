@@ -25,6 +25,8 @@ While patterns like the Factory also address object creation, the fundamental di
 In essence:
 
 * **Factory:** Creates objects from a blueprint (the class definition).
+
+https://docs.google.com/document/d/1QifvXT30i6Gku6ssumEIJemF6J9KTmpkc2gyVH6hXts/edit?tab=t.0
 * **Prototype:** Creates objects from a pre-existing instance (the prototype object).
 
 This "creation by copying" methodology distinguishes the Prototype pattern and renders it exceptionally potent in specific situations where efficiency, runtime adaptability, and minimizing subclass proliferation are paramount concerns. Further examples will be explored to solidify this understanding.
