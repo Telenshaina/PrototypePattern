@@ -1,8 +1,8 @@
 # PrototypePattern
 
-#Document Prototype Pattern
+## Document Prototype Pattern
 
-Implement the diagram.  You must produce the following output:  Disregard the comment.
+**Implement the diagram.  You must produce the following output:  Disregard the comment.**
 
 Creating a PDF Document prototype. //Executed in the constructor
 Creating a Text Document prototype. //Executed in the constructor
